@@ -10,7 +10,7 @@ Immutable Map documentation
 Normalizr
 Normalizing State Shape
 
-#Learning Objectives
+# Learning Objectives
 At the end of this project, you should be able to explain to anyone, without the help of Google:
 
 The purpose of a reducer and the role it plays within your application
